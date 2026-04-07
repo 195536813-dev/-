@@ -9,12 +9,12 @@
 | 系列 | 包含款式 | 详细参数 |
 | :--- | :--- | :--- |
 | **MG68 系列** | MG68 Ace, MG68 Ace W, MG68 Plus | [MG68.md](./models/MG68.md) |
-| **MG75 系列** | MG75 Max, MG75 V2 | [View MG75.md](./models/MG75.md) |
-| **MG63 系列** | MG63 双擎 | [View MG63.md](./models/MG63.md) |
-| **ND68 系列** | ND68, ND68 Pro | [View ND68.md](./models/ND68.md) |
-| **ND63 系列** | ND63 Max, ND63 Ultra | [View ND63.md](./models/ND63.md) |
-| **RA68 系列** | RA68, RA68 双擎 | [View RA68.md](./models/RA68.md) |
-| **FE87 V2 系列** | 多种轴体可选 | [View FE87V2.md](./models/FE87V2.md) |
+| **MG75 系列** | MG75 Max, MG75 V2 | [MG75.md](./models/MG75.md) |
+| **MG63 系列** | MG63 双擎 | [MG63.md](./models/MG63.md) |
+| **ND68 系列** | ND68, ND68 Pro | [ND68.md](./models/ND68.md) |
+| **ND63 系列** | ND63 Max, ND63 Ultra | [ND63.md](./models/ND63.md) |
+| **RA68 系列** | RA68, RA68 双擎 | [RA68.md](./models/RA68.md) |
+| **FE87 V2 系列** | 多种轴体可选 | [FE87V2.md](./models/FE87V2.md) |
 
 ---
 
